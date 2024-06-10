@@ -82,7 +82,8 @@ faster.
 #### Video
 - [Zubtitle](https://zubtitle.com/) - Create awesome videos for social media in minutes
 - [Terra](https://www.welcometerra.com/) - A machine learning platform specifically tailored to reduce friction and complexity in the video storytelling process.
-
+- [Dyte](https://dyte.io) - Dyte's Video SDK and API are the most light-weight, customizable and developer friendly SDKs. They are also SOC2, GDPR and HIPAA compliant.
+  
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
